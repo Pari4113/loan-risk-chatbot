@@ -7,6 +7,7 @@ This chatbot converts natural language questions into SQL queries and runs them 
 > "Show high risk customers in Texas" → SQL → Results + Insight
 
 Companion project to [loan-risk-pipeline](https://github.com/Pari4113/loan-risk-pipeline) which built and scored the underlying data.
+> 📺 **[Watch the Demo Video](https://www.loom.com/share/74a6cda5efff44d8b0622360311ae95a)** 
 
 ---
 
